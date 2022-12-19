@@ -3,7 +3,7 @@ Minimal Interpreter for the Brainfuck Programming Language. <br>
 https://en.wikipedia.org/wiki/Brainfuck <br>
 
 The usage is extraordinarily simple. <br>
-Simply type ./brainfuck < filename. <br>
+Simply type <code> ./brainfuck < filename  </code> <br>
 A sample file for printing squares is provided in test.fuck <br>
 <br>
 Line breaks are supported but comments are not. <br>
